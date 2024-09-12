@@ -12,8 +12,8 @@ import lombok.NoArgsConstructor;
 
 @Entity
 @Table(name = "users")
-@Data // Генерирует геттеры, сеттеры, toString, equals и hashCode
-@NoArgsConstructor // Генерирует конструктор без аргументов
+@Data
+@NoArgsConstructor
 public class User {
 
     @Id

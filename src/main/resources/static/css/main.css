@@ -58,7 +58,8 @@ button:hover, input[type="submit"]:hover {
 
 .error {
     color: #dc3545;
-    margin-bottom: 1rem;
+    font-size: 0.9em;
+    margin-top: 5px;
 }
 
 .success {

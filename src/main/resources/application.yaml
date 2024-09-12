@@ -2,7 +2,7 @@ spring:
   application:
     name: Practical_work_4
   datasource:
-    url: jdbc:postgresql://localhost:5432/library_db
+    url: jdbc:postgresql://localhost:5432/security_db
     username: postgres
     password: 123
     driver-class-name: org.postgresql.Driver
